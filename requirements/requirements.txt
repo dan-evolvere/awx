@@ -17,7 +17,7 @@ cffi==1.13.2              # via cryptography
 channels==1.1.8
 chardet==3.0.4            # via requests
 constantly==15.1.0        # via twisted
-cryptography==2.8         # via adal, autobahn, azure-keyvault
+cryptography==42.0.0         # via adal, autobahn, azure-keyvault
 daphne==1.4.2
 defusedxml==0.6.0         # via python3-openid, python3-saml, social-auth-core
 dictdiffer==0.8.1         # via openshift
