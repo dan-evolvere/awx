@@ -108,7 +108,7 @@ schedule==0.6.0
 six==1.13.0               # via ansible-runner, asgi-amqp, asgiref, autobahn, automat, cryptography, django-extensions, google-auth, isodate, jaraco.classes, jaraco.collections, jaraco.itertools, jaraco.logging, jaraco.text, jsonschema, kubernetes, openshift, pygerduty, pyhamcrest, pyrad, pyrsistent, python-dateutil, python-memcached, slackclient, social-auth-app-django, social-auth-core, tacacs-plus, tempora, twilio, txaio, websocket-client
 slackclient==1.1.2
 smmap2==2.0.5             # via gitdb2
-social-auth-app-django==3.1.0
+social-auth-app-django==5.4.1
 social-auth-core==3.2.0
 sqlparse==0.3.0           # via django
 tacacs_plus==1.0
