@@ -57,7 +57,7 @@ jaraco.itertools==4.4.2   # via irc
 jaraco.logging==2.0       # via irc
 jaraco.stream==3.0.0      # via irc
 jaraco.text==3.2.0        # via irc, jaraco.collections
-jinja2==2.10.3
+jinja2==3.1.4
 jsonpickle==1.2           # via asgi-amqp
 jsonschema==3.2.0
 kombu==4.6.7              # via asgi-amqp
