@@ -114,7 +114,7 @@ sqlparse==0.3.0           # via django
 tacacs_plus==1.0
 tempora==1.14.1           # via irc, jaraco.logging
 twilio==6.35.1
-twisted==19.10.0          # via daphne
+twisted==24.7.0rc1          # via daphne
 txaio==18.8.1             # via autobahn
 urllib3==1.25.7           # via kubernetes, requests
 uwsgi==2.0.18
